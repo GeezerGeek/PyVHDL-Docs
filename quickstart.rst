@@ -81,7 +81,7 @@ Make sure the plasma project is highlighted in the IDE **zamiaCAD Navigator** vi
 
 	Import Dialog
 
-Now a dialog appears where the import is setup. Click on the **Browse...** button to the right of the **From archive file:** text box.	Navigate to the **PyVHDL-0.0.1/share/saved-projects** folder, and select the **plasma-PyVHDL.zip** file. Click the **Open** button. Now the completed Import dialog should look like this:
+Next a dialog appears where the import is setup. Click on the **Browse...** button to the right of the **From archive file:** text box.	Navigate to **PyVHDL-0.0.1/share/saved-projects** . Select the **plasma-PyVHDL.zip** file. Click the **Open** button. Now the completed Import dialog should look like this:
 
 .. figure:: images/import_dialog2B.jpg
 	:align: center
